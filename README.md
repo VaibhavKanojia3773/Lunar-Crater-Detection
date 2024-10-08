@@ -41,6 +41,8 @@ Objective: Ensure accurate detection and detailed information presentation, meet
 
 ![image](https://github.com/user-attachments/assets/d854bc0b-1580-45e1-ab80-55db511d9295)
 
+![image](https://github.com/user-attachments/assets/022f8dc6-ce7a-4b21-950b-9f56416893ff)
+
 ![image](https://github.com/user-attachments/assets/430700d1-544b-4946-abb3-397b48f8c442)
 
 
